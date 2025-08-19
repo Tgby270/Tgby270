@@ -2,6 +2,9 @@
 <h3 align="center">I am Tgby_270</h3>
 <h3 align="center">I am a student curently on my second year of a "BUT Informatique"</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tgby270&label=Profile%20views&color=b40e0e&style=flat" alt="tgby270" /> </p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tristan-grossin-7b5627365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan-grossin-7b5627365" height="30" width="40" /></a>
