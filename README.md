@@ -2,7 +2,7 @@
 <h3 align="center">I am Tgby_270</h3>
 <h3 align="center">I am a student curently on my second year of a "BUT Informatique"</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tgby270&label=Profile%20views&color=b40e0e&style=flat" alt="tgby270" /> </p>
+
 
 
 <h3 align="center">Connect with me:</h3>
